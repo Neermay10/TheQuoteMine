@@ -1,1 +1,1 @@
-# theQuoteMineSite
+# The Quote Mine
