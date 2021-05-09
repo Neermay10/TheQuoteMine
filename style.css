@@ -1,4 +1,6 @@
-
+*{
+    font-family: "Audiowide", sans-serif;
+}
 
 /* The sidepanel menu */
 .sidepanel {
@@ -145,4 +147,22 @@ body, html {
 }
 .grid img:hover{
     transform: scale(1.05);
+}
+.heading{
+    font-family: "Audiowide", sans-serif;
+}
+.Topposts{
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+.Topposts img{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+}
+.Topposts img:hover{
+    transform: scale(1.1);
 }
